@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SESSIA_4.Properties
+namespace WorkWithSubscribers.Properties
 {
 
 

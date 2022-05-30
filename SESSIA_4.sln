@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SESSIA_4", "SESSIA_4\SESSIA_4.csproj", "{97CEB41E-0E2E-4C6E-A381-B940735841B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWithSubscribers", "WorkWithSubscribers\WorkWithSubscribers.csproj", "{C158A1D3-B8CF-4D5D-AE19-07836FDDCBC0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
